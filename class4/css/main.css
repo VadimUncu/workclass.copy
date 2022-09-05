@@ -1,0 +1,27 @@
+.section-header {
+    padding: 10px;
+    background-color: rgb(30, 10, 50);
+    color: whitesmoke;
+}
+
+p {
+    padding: 30px;
+    background-color: rgb(40, 5, 5);
+    color: whitesmoke;
+}
+
+.list-header {
+    text-decoration: underline;
+}
+
+ol {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+ul {
+    color: blue;
+    max-height: 100px;
+    width: 50%;
+    overflow: scroll;
+}
