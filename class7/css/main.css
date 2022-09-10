@@ -12,7 +12,7 @@ body {
 .section-div {
     position: relative;
     height: 400px;
-    color: blueviolet;
+    color: rgb(103, 22, 178);
 }
 
 #app {
