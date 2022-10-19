@@ -1,0 +1,48 @@
+.center {
+    margin-top: 26px;
+    background-color: #e2deda;
+    width: 850px;
+    font-family: Book Antiqua;
+    opacity: 1;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #826a51;
+    position: relative;
+}
+
+.logo {
+    float: left;
+    margin: 20px 0 0 20px;
+}
+
+.logout {
+    width: 80px;
+    float: right;
+    height: 25px;
+    margin: 40px 35px 30px 0px;
+    padding-top: 5px;
+    background-color: rgb(176, 145, 59);
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.logset {
+    color: #ffffff;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.settings {
+    width: 80px;
+    float: right;
+    height: 25px;
+    margin: 80px -80px 30px 0px;
+    padding-top: 5px;
+    background-color: rgb(176, 145, 59);
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
